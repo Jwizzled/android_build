@@ -24,6 +24,8 @@ PRODUCT_PACKAGES := \
     Bluetooth \
     Calculator \
     CertInstaller \
+    Email \
+    Exchange2 \
     FusedLocation \
     InputDevices \
     Keyguard \
