@@ -31,7 +31,9 @@ PRODUCT_PACKAGES := \
     Keyguard \
     LatinIME \
     MusicFX \
+    OneTimeInitializer \
     PrintSpooler \
+    Provision \
     Settings \
     SystemUI \
     TeleService \
